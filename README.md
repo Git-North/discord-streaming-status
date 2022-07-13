@@ -9,4 +9,5 @@ Discord Streaming Status For Both User Accounts And Bot Accounts.
 - token_here would where your discord token will go.
 
 # INFO
-This was for a minecraft plugin/bot a while ago works for users too but since it's against TOS should not be used that way
+This was for a minecraft plugin/bot I made a while ago works for users too but since it's against TOS should not be used that way
+I copied the code mostly
